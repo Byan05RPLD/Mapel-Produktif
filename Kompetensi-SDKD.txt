@@ -1,10 +1,12 @@
 Kompetensi SDKD
-A.komunikasi daring sinkron
+a.komunikasi daring sinkron
 -line
-B.komunikasi daring asinkron
+b.komunikasi daring asinkron
 -email
-C.Github
+c.Github
 -membuat akun
--membuat repository(file baru dan commit) 
-D.Git
+-membuat repository
+-membuat file baru 
+-membuat commit
+d.Git 
 -belum
